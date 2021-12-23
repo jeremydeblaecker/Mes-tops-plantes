@@ -1,0 +1,27 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.ynov.myFirstApp"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.ynov.myFirstApp"
+    },
+    "cordova-plugin-push-notifications": {
+      "PACKAGE_NAME": "com.ynov.myFirstApp"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.ynov.myFirstApp"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.ynov.myFirstApp"
+    }
+  },
+  "dependent_plugins": {}
+}

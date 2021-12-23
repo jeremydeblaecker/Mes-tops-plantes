@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Glycine",
+    "description": "Ce sont des plantes ligneuses et grimpantes à feuilles composées pennées caduques et à fleurs papilionacées, dont certaines espèces sont appelées « glycines ». Certaines d'entre elles sont cultivées comme plantes ornementales en raison de leurs grappes de fleurs printanières et de leur épais feuillage.",
+    "img": "img/plantes/glycine.jpg",
+    "link": "https://fr.wikipedia.org/wiki/Wisteria"
+  },
+  {
+    "name": "Muguet de mai",
+    "description": "Le muguet de mai ou muguet commun (Convallaria majalis) est une espèce de plantes herbacées vivaces des régions tempérées dont les fleurs printanières, petites et blanches, forment des grappes de clochettes très odorantes.",
+    "img": "img/plantes/muguet.jpg",
+    "link": "https://fr.wikipedia.org/wiki/Muguet_de_mai"
+  },
+  {
+    "name": "Myosotis",
+    "description": "Myosotis est un genre de plantes herbacées de la famille des Boraginaceae. On en retrouve une centaine d'espèces dans les régions tempérées ou montagneuses à travers le monde.Certaines espèces et variétés sont utilisées pour fleurir les jardins. Elles se ressèment facilement et peuvent devenir envahissantes.Les espèces sauvages présentent des fleurs de couleur bleue, parfois rose ou blanche.",
+    "img": "img/plantes/Myosotis.jpg",
+    "link": "https://fr.wikipedia.org/wiki/Myosotis"
+  },
+  {
+    "name": "Hydrangea",
+    "description": "Hydrangea est un genre d'arbustes et d'arbres appartenant à la famille des Hydrangeaceae dont l'espèce la plus connue est une espèce hybride, appelée Hydrangea ×serratophylla, obtenue par croisement entre Hydrangea macrophylla et Hydrangea serrata.",
+    "img": "img/plantes/Hortensia2.jpg",
+    "link": "https://fr.wikipedia.org/wiki/Hydrangea"
+  },
+  {
+    "name": "Aconit napel",
+    "description": "L'aconit est connu depuis l'Antiquité pour l'activité toxique de ses alcaloïdes puisqu'on l'utilisait pour la chasse ou empoisonner l'eau potable.Une légende grecque le disait issu de la bave des crocs du Cerbère, chien féroce à trois têtes gardant l'entrée des enfers et ramené sur Terre par Hercule. Cela montre à quel point on redoutait les effets de son poison1.",
+    "img": "img/plantes/aconit.jpg",
+    "link": "https://fr.wikipedia.org/wiki/Aconit_napel"
+  }
+]

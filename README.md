@@ -1,7 +1,7 @@
 # Web Mobile - Mes tops plantes  
 
 ## Informations  
-Application réalisé en Mastère 1 avec Ionic et Cordova.  
+Application réalisé en Mastère 1 avec Ionic et Cordova. Ce projet a pour but de réaliser une PWA avec Ionic, j'ai décidé de réaliser un top de plantes afin de faire mon exercice.    
 
 ## Page Accueil
 <img src="https://github.com/jeremydeblaecker/WebMobileProjet1/blob/master/www/img/readme/accueil.JPG"/>

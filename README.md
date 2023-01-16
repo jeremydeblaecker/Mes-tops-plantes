@@ -1,4 +1,8 @@
-# WebMobileProjet1
+# Web Mobile - Mes tops plantes  
+
+## Informations  
+Application réalisé en Mastère 1 avec Ionic et Cordova.  
+
 ## Page Accueil
 <img src="https://github.com/jeremydeblaecker/WebMobileProjet1/blob/master/www/img/readme/accueil.JPG"/>
 
